@@ -1,32 +1,32 @@
 [
   {
     "date": "2026-04-17",
-    "narrative_tagline": "시장은 현재 밈코인 투기 열풍과 Binance Alpha Spotlight 효과를 중심으로 저시가총액 무근거 펌프를 집중적으로 보상하고 있다.",
+    "narrative_tagline": "시장은 Binance Alpha Spotlight 촉매와 저유동성 환경이 결합된 밈코인 투기 섹터를 집중적으로 보상하고 있으며, Hyperliquid 기반 DeFi가 그 뒤를 잇고 있다.",
     "top5": [
       {
         "symbol": "ORDI",
         "name": "ORDI",
-        "change_48h_pct": 173.85
+        "change_48h_pct": 172.21
       },
       {
         "symbol": "SIREN",
         "name": "Siren",
-        "change_48h_pct": 165.5
+        "change_48h_pct": 169.71
       },
       {
         "symbol": "BASED",
         "name": "Based",
-        "change_48h_pct": 144.87
+        "change_48h_pct": 159.22
       },
       {
         "symbol": "ROSA",
         "name": "Rosa Inu",
-        "change_48h_pct": 111.27
+        "change_48h_pct": 112.52
       },
       {
         "symbol": "PRL",
         "name": "Perle",
-        "change_48h_pct": 77.15
+        "change_48h_pct": 87.74
       }
     ]
   }

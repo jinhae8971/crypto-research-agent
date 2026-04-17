@@ -1,32 +1,32 @@
 [
   {
     "date": "2026-04-17",
-    "narrative_tagline": "시장은 Binance Alpha Spotlight 촉매와 저유동성 환경이 결합된 밈코인 투기 섹터를 집중적으로 보상하고 있으며, Hyperliquid 기반 DeFi가 그 뒤를 잇고 있다.",
+    "narrative_tagline": "시장은 Binance Alpha Spotlight 촉매와 저유동성 환경이 결합된 밈·투기 테마에 단기 프리미엄을 지급하고 있으며, 실질 내러티브보다 거래소 노출 이벤트가 가격 결정의 핵심 변수로 작동 중이다.",
     "top5": [
       {
-        "symbol": "ORDI",
-        "name": "ORDI",
-        "change_48h_pct": 172.21
+        "symbol": "SOON",
+        "name": "SOON",
+        "change_48h_pct": 51.27
       },
       {
-        "symbol": "SIREN",
-        "name": "Siren",
-        "change_48h_pct": 169.71
+        "symbol": "RAVE",
+        "name": "RaveDAO",
+        "change_48h_pct": 34.4
       },
       {
-        "symbol": "BASED",
-        "name": "Based",
-        "change_48h_pct": 159.22
+        "symbol": "ICNT",
+        "name": "Impossible Cloud Network Token",
+        "change_48h_pct": 25.19
       },
       {
-        "symbol": "ROSA",
-        "name": "Rosa Inu",
-        "change_48h_pct": 112.52
+        "symbol": "币安人生",
+        "name": "币安人生 (BinanceLife)",
+        "change_48h_pct": 19.87
       },
       {
-        "symbol": "PRL",
-        "name": "Perle",
-        "change_48h_pct": 87.74
+        "symbol": "SKYAI",
+        "name": "SkyAI",
+        "change_48h_pct": 17.44
       }
     ]
   }

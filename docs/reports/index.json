@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-04-18",
+    "narrative_tagline": "바이낸스 Alpha Spotlight 이벤트가 단기 촉매로 작동하는 가운데, AI·밈·RWA 테마에 투기적 자금이 산발적으로 유입되며 내러티브 집중도 없이 단기 모멘텀 장세가 전개되고 있다.",
+    "top5": [
+      {
+        "symbol": "ASTEROID",
+        "name": "Asteroid Shiba",
+        "change_48h_pct": 365.85
+      },
+      {
+        "symbol": "REQ",
+        "name": "Request",
+        "change_48h_pct": 56.23
+      },
+      {
+        "symbol": "PIEVERSE",
+        "name": "Pieverse",
+        "change_48h_pct": 36.12
+      },
+      {
+        "symbol": "API3",
+        "name": "Api3",
+        "change_48h_pct": 27.49
+      },
+      {
+        "symbol": "GWEI",
+        "name": "ETHGas",
+        "change_48h_pct": 21.4
+      }
+    ]
+  },
+  {
     "date": "2026-04-17",
     "narrative_tagline": "시장은 Binance Alpha Spotlight 촉매와 저유동성 환경이 결합된 밈·투기 테마에 단기 프리미엄을 지급하고 있으며, 실질 내러티브보다 거래소 노출 이벤트가 가격 결정의 핵심 변수로 작동 중이다.",
     "top5": [

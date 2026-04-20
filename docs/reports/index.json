@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-04-20",
+    "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 중심의 단기 투기 매수세와 AI·DeFi 내러티브를 결합한 소형주 알트코인 로테이션을 집중적으로 보상하고 있다.",
+    "top5": [
+      {
+        "symbol": "PIEVERSE",
+        "name": "Pieverse",
+        "change_48h_pct": 50.19
+      },
+      {
+        "symbol": "UAI",
+        "name": "UnifAI Network",
+        "change_48h_pct": 41.72
+      },
+      {
+        "symbol": "ASTEROID",
+        "name": "Asteroid Shiba",
+        "change_48h_pct": 36.93
+      },
+      {
+        "symbol": "IRYS",
+        "name": "Irys",
+        "change_48h_pct": 35.28
+      },
+      {
+        "symbol": "BLUR",
+        "name": "Blur",
+        "change_48h_pct": 29.92
+      }
+    ]
+  },
+  {
     "date": "2026-04-19",
     "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 선정 촉매와 DeFi 섹터 알트코인 로테이션을 중심으로 단기 투기적 수요를 보상하고 있다.",
     "top5": [

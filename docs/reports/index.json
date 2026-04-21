@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-04-21",
+    "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 드리븐 모멘텀과 AI 에이전트 내러티브를 중심으로 단기 투기 수요를 보상하고 있다.",
+    "top5": [
+      {
+        "symbol": "RAVE",
+        "name": "RaveDAO",
+        "change_48h_pct": 148.46
+      },
+      {
+        "symbol": "UAI",
+        "name": "UnifAI Network",
+        "change_48h_pct": 78.29
+      },
+      {
+        "symbol": "ROSA",
+        "name": "Rosa Inu",
+        "change_48h_pct": 47.25
+      },
+      {
+        "symbol": "BSB",
+        "name": "Block Street",
+        "change_48h_pct": 42.03
+      },
+      {
+        "symbol": "M",
+        "name": "MemeCore",
+        "change_48h_pct": 25.14
+      }
+    ]
+  },
+  {
     "date": "2026-04-20",
     "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 중심의 단기 투기 매수세와 AI·DeFi 내러티브를 결합한 소형주 알트코인 로테이션을 집중적으로 보상하고 있다.",
     "top5": [

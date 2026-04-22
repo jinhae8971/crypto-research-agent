@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-04-22",
+    "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 드리븐 모멘텀과 AI 에이전트 인프라 내러티브가 결합된 단기 투기 수요를 지속적으로 보상하고 있다.",
+    "top5": [
+      {
+        "symbol": "UB",
+        "name": "Unibase",
+        "change_48h_pct": 79.26
+      },
+      {
+        "symbol": "SPK",
+        "name": "Spark",
+        "change_48h_pct": 42.58
+      },
+      {
+        "symbol": "BSB",
+        "name": "Block Street",
+        "change_48h_pct": 33.9
+      },
+      {
+        "symbol": "ROSA",
+        "name": "Rosa Inu",
+        "change_48h_pct": 32.82
+      },
+      {
+        "symbol": "TRIA",
+        "name": "TRIA",
+        "change_48h_pct": 32.36
+      }
+    ]
+  },
+  {
     "date": "2026-04-21",
     "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 드리븐 모멘텀과 AI 에이전트 내러티브를 중심으로 단기 투기 수요를 보상하고 있다.",
     "top5": [

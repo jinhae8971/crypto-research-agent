@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-04-23",
+    "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 드리븐 모멘텀과 AI 에이전트 내러티브가 결합된 BNB 체인 중심 소형 알트코인 투기 로테이션을 보상하고 있다.",
+    "top5": [
+      {
+        "symbol": "SPK",
+        "name": "Spark",
+        "change_48h_pct": 89.85
+      },
+      {
+        "symbol": "CHIP",
+        "name": "CHIP",
+        "change_48h_pct": 77.06
+      },
+      {
+        "symbol": "SKYAI",
+        "name": "SkyAI",
+        "change_48h_pct": 43.93
+      },
+      {
+        "symbol": "H",
+        "name": "Humanity",
+        "change_48h_pct": 28.14
+      },
+      {
+        "symbol": "BSB",
+        "name": "Block Street",
+        "change_48h_pct": 23.91
+      }
+    ]
+  },
+  {
     "date": "2026-04-22",
     "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 드리븐 모멘텀과 AI 에이전트 인프라 내러티브가 결합된 단기 투기 수요를 지속적으로 보상하고 있다.",
     "top5": [

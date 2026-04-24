@@ -1,0 +1,195 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T22:51:06.676892Z",
+  "gainers": [
+    {
+      "id": "apecoin",
+      "symbol": "ape",
+      "name": "ApeCoin",
+      "image": "https://coin-images.coingecko.com/coins/images/24383/large/APECOIN.png?1756551529",
+      "current_price": 0.177959,
+      "market_cap": 177517109.0,
+      "market_cap_rank": 193,
+      "total_volume": 810055478.0,
+      "change_24h_pct": 75.17357,
+      "change_48h_pct": 74.47302888291927,
+      "price_48h_ago": 0.101998
+    },
+    {
+      "id": "yooldo-games",
+      "symbol": "esports",
+      "name": "Yooldo Games",
+      "image": "https://coin-images.coingecko.com/coins/images/67430/large/symbol-esports.png?1770141653",
+      "current_price": 0.461505,
+      "market_cap": 70056520.0,
+      "market_cap_rank": 381,
+      "total_volume": 17699765.0,
+      "change_24h_pct": 33.20768,
+      "change_48h_pct": 36.04286114345513,
+      "price_48h_ago": 0.339235
+    },
+    {
+      "id": "zebec-network",
+      "symbol": "zbcn",
+      "name": "Zebec Network",
+      "image": "https://coin-images.coingecko.com/coins/images/37052/large/zbcn.jpeg?1713168241",
+      "current_price": 0.00373811,
+      "market_cap": 366131566.0,
+      "market_cap_rank": 122,
+      "total_volume": 18218869.0,
+      "change_24h_pct": 17.35601,
+      "change_48h_pct": 31.284747465169122,
+      "price_48h_ago": 0.00284733
+    },
+    {
+      "id": "seeker",
+      "symbol": "skr",
+      "name": "Seeker",
+      "image": "https://coin-images.coingecko.com/coins/images/70974/large/seeker-logo.jpg?1764922774",
+      "current_price": 0.01998863,
+      "market_cap": 124779017.0,
+      "market_cap_rank": 246,
+      "total_volume": 139013989.0,
+      "change_24h_pct": 30.9855,
+      "change_48h_pct": 31.207288247182852,
+      "price_48h_ago": 0.01523439
+    },
+    {
+      "id": "stable-2",
+      "symbol": "stable",
+      "name": "​​Stable",
+      "image": "https://coin-images.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
+      "current_price": 0.03268558,
+      "market_cap": 721456161.0,
+      "market_cap_rank": 83,
+      "total_volume": 92888500.0,
+      "change_24h_pct": 5.76688,
+      "change_48h_pct": 24.333287179120447,
+      "price_48h_ago": 0.02628868
+    }
+  ],
+  "analyses": [
+    {
+      "coin_id": "apecoin",
+      "symbol": "APE",
+      "pump_thesis": "APE는 게이밍·NFT 섹터 로테이션 및 밈·IP 내러티브 투기 수요가 집중되며 유동성이 낮은 구간에서 단기 급등을 기록했다.",
+      "drivers": [
+        "거래량이 시가총액 대비 약 4.6배에 달하는 극단적 과열 거래량으로, 단기 투기 세력의 집중 매수 신호",
+        "ApeChain·BAYC·Otherside 등 멀티 에코시스템 확장 내러티브가 시장 관심을 지속적으로 유지하는 중",
+        "게이밍·NFT·밈 섹터 전반에 걸친 자금 로테이션이 APE의 다중 카테고리 포지셔닝과 맞물려 시너지 발생",
+        "HyperLiquid 등 신규 체인 지원 확대 소식이 가스 토큰으로서의 유틸리티 기대감을 자극"
+      ],
+      "risks": [
+        "거래량 대비 시가총액 비율이 비정상적으로 높아 세력 주도 단기 펌핑 후 급격한 되돌림 가능성이 매우 높음",
+        "명확한 뉴스 촉매 없이 순수 투기 모멘텀으로 급등한 구간으로, 지속적 상승 동력 부재 시 빠른 가격 반전 위험",
+        "BAYC NFT 시장 침체 지속 시 APE 생태계의 실질적 수요 기반이 약화될 수 있음",
+        "대형 VC(a16z 등) 및 초기 투자자의 물량 잠금 해제 스케줄에 따른 매도 압력 잠재"
+      ],
+      "category_tags": [
+        "Gaming",
+        "Meme"
+      ],
+      "confidence": 0.38,
+      "news_used": []
+    },
+    {
+      "coin_id": "yooldo-games",
+      "symbol": "ESPORTS",
+      "pump_thesis": "Binance Alpha Spotlight 이벤트 선정에 따른 투기적 수요 집중이 48시간 내 급등의 핵심 동인이다.",
+      "drivers": [
+        "Binance Alpha Spotlight 등재로 바이낸스 생태계 내 단기 트레이더들의 집중 매수 유입",
+        "전일 시장 내러티브와 일치하는 BNB 체인 기반 소형 알트코인 로테이션의 직접적 수혜",
+        "Play-to-Earn 게이밍 섹터 전반의 투기적 관심 증가와 맞물려 상승 모멘텀 확대"
+      ],
+      "risks": [
+        "Binance Alpha Spotlight 이벤트 종료 후 단기 차익 실현 매물 급증으로 인한 가격 급락 위험",
+        "프로젝트 설명 정보 부재로 실질적인 펀더멘털 검증이 불가능하여 내재가치 평가 어려움",
+        "시가총액 대비 거래량 비율(약 25%)이 이벤트 드리븐 투기성 매매 집중을 시사하여 변동성 리스크 높음"
+      ],
+      "category_tags": [
+        "Gaming"
+      ],
+      "confidence": 0.65,
+      "news_used": []
+    },
+    {
+      "coin_id": "zebec-network",
+      "symbol": "ZBCN",
+      "pump_thesis": "RWA·DePIN 복합 내러티브 및 결제 인프라 섹터에 대한 시장 관심 재부각이 ZBCN 단기 상승을 이끌었다.",
+      "drivers": [
+        "RWA(실물자산 토큰화)와 DePIN 섹터가 동시에 시장 주목을 받는 구간에서 두 카테고리 모두에 해당하는 ZBCN이 복합 수혜",
+        "Solana 생태계 전반의 DeFi·결제 인프라에 대한 관심 증가가 동반 상승 모멘텀 제공",
+        "Coinbase Ventures, Circle Ventures 등 유명 투자사 포트폴리오 포함으로 중장기 신뢰도 지지",
+        "실시간 급여 지급 및 온체인 결제 인프라라는 실용적 유틸리티가 RWA 내러티브와 결합하여 투자 매력도 상승"
+      ],
+      "risks": [
+        "Alameda Research 포트폴리오 포함으로 과거 연계 물량의 시장 매도 압력 잠재 가능성",
+        "뚜렷한 48시간 내 촉매성 뉴스가 확인되지 않아 순수 섹터 로테이션 기반 상승의 지속성 불확실",
+        "시가총액 대비 거래량이 약 5%로 상대적으로 낮아 대규모 포지션 진입·청산 시 가격 충격 위험",
+        "전통 금융과의 접목을 지향하는 만큼 규제 환경 변화에 민감하게 반응할 수 있음"
+      ],
+      "category_tags": [
+        "DeFi",
+        "RWA",
+        "DePIN"
+      ],
+      "confidence": 0.48,
+      "news_used": []
+    },
+    {
+      "coin_id": "seeker",
+      "symbol": "SKR",
+      "pump_thesis": "카테고리 및 프로젝트 정보가 전무한 상태에서 거래량 대비 시가총액 비율이 약 1.1배에 달하는 극단적 투기성 매수가 단기 급등을 유발했다.",
+      "drivers": [
+        "24시간 거래량이 시가총액과 거의 동등한 수준으로, 조직적 세력 혹은 단기 모멘텀 트레이더의 집중 매수 가능성",
+        "소형 알트코인 전반의 투기 로테이션 흐름에 편승한 유동성 공백 구간 가격 증폭"
+      ],
+      "risks": [
+        "프로젝트 설명·카테고리 정보 전무로 근본적인 펀더멘털 분석 자체가 불가능한 극단적 정보 비대칭 상황",
+        "거래량이 시가총액을 상회하는 구조는 전형적인 단기 펌프앤덤프 패턴과 일치하여 급락 위험 매우 높음",
+        "유동성 기반이 취약한 소형 코인으로 대량 매도 시 슬리피지 및 가격 충격이 극대화될 수 있음"
+      ],
+      "category_tags": [
+        "Gaming"
+      ],
+      "confidence": 0.2,
+      "news_used": []
+    },
+    {
+      "coin_id": "stable-2",
+      "symbol": "STABLE",
+      "pump_thesis": "프로젝트 정보가 불분명한 상태에서 시가총액 상위권(83위) 토큰임에도 48시간 내 24% 급등이 발생하여 섹터 로테이션 또는 특정 세력의 개입 가능성이 있다.",
+      "drivers": [
+        "시가총액 7.2억 달러 규모의 토큰임에도 24시간 거래량이 시총의 약 13% 수준으로 이상 급등 발생, 특정 모멘텀 유입 시사",
+        "48시간 변동(+24.3%)과 24시간 변동(+5.8%)의 괴리가 커 초기 48시간 구간에 집중된 매수 압력이 있었음을 시사",
+        "스테이블코인 관련 내러티브 혹은 RWA 섹터 연계 가능성으로 시장 관심 유입 추정"
+      ],
+      "risks": [
+        "카테고리·프로젝트 설명 정보 전무로 상승 원인 파악이 불가능하여 투자 근거 자체가 극히 취약",
+        "24시간 상승폭이 48시간 대비 급격히 둔화(+5.8%)된 점은 모멘텀 소진 및 단기 고점 형성 신호일 수 있음",
+        "정보 불투명성이 높은 토큰의 시가총액 83위 포지션은 시장 조작 또는 유동성 집중 리스크를 내포"
+      ],
+      "category_tags": [
+        "Stablecoin"
+      ],
+      "confidence": 0.22,
+      "news_used": []
+    }
+  ],
+  "narrative": {
+    "current_narrative": "시장은 바이낸스 Alpha Spotlight 이벤트 드리븐 모멘텀과 게이밍·밈 섹터 로테이션에 단기 투기 자금을 집중시키는 반면, 주 초반을 주도했던 AI·DeFi 내러티브는 점차 동력을 잃고 있다.",
+    "hot_sectors": [
+      "Gaming",
+      "Meme",
+      "RWA",
+      "DePIN"
+    ],
+    "cooling_sectors": [
+      "AI",
+      "DeFi",
+      "L2"
+    ],
+    "investment_insight": "현 시점에서는 바이낸스 Alpha Spotlight 이벤트를 촉매로 한 Gaming 섹터(ESPORTS, APE 등)와 RWA·DePIN 복합 내러티브(ZBCN 등)에 단기 비중을 소폭 확대하되, 신뢰도 점수가 0.5 이상인 종목에 한정하여 포지션을 제한할 것을 권고한다. AI·DeFi 섹터는 주 초 대비 신호가 약화되었으므로 신규 진입을 자제하고 기존 포지션은 부분 이익실현을 고려해야 한다. 단, 바이낸스 Alpha Spotlight 신규 선정 종목이 AI 또는 DeFi 태그를 동반하며 재등장할 경우 이 내러티브가 재점화될 수 있으므로, 해당 이벤트 발표를 핵심 무효화 신호로 모니터링해야 한다.",
+    "week_over_week_change": "주 초반(4/17~4/21)에는 AI 에이전트·DeFi 복합 내러티브와 밈코인이 공동 주도하였으나, 주 후반(4/23~현재)으로 갈수록 AI·DeFi 태그가 상위권에서 탈락하고 Gaming·RWA·DePIN 복합 로테이션이 새롭게 부상하고 있다."
+  }
+}

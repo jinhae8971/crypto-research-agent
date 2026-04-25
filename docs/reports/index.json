@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-04-25",
+    "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 드리븐 모멘텀과 게이밍·GameFi 섹터 로테이션을 중심으로 단기 투기 자금을 집중시키고 있다.",
+    "top5": [
+      {
+        "symbol": "BSB",
+        "name": "Block Street",
+        "change_48h_pct": 74.85
+      },
+      {
+        "symbol": "APE",
+        "name": "ApeCoin",
+        "change_48h_pct": 55.79
+      },
+      {
+        "symbol": "AXS",
+        "name": "Axie Infinity",
+        "change_48h_pct": 43.64
+      },
+      {
+        "symbol": "ORCA",
+        "name": "Orca",
+        "change_48h_pct": 22.81
+      },
+      {
+        "symbol": "B",
+        "name": "BUILDon",
+        "change_48h_pct": 22.61
+      }
+    ]
+  },
+  {
     "date": "2026-04-24",
     "narrative_tagline": "시장은 바이낸스 Alpha Spotlight 이벤트 드리븐 모멘텀과 게이밍·밈 섹터 로테이션에 단기 투기 자금을 집중시키는 반면, 주 초반을 주도했던 AI·DeFi 내러티브는 점차 동력을 잃고 있다.",
     "top5": [
